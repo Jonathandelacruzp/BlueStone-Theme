@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="BlueStoneTheme" GUID="{7d249973-c6b1-4d48-b557-0043310c916f}" BaseGUID="{7ca8c24f-a916-49c4-9ed5-4068bdb754cf}">
+  <Theme Name="BlueStone" GUID="{7d249973-c6b1-4d48-b557-0043310c916f}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
@@ -594,15 +594,15 @@
       </Color>
       <Color Name="Track additions in documents under source control">
         <Background Type="CT_RAW" Source="FF55B155" />
-        <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
-      </Color>
-      <Color Name="Track modifications in documents under source control">
-        <Background Type="CT_RAW" Source="FF3595DE" />
-        <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
-      </Color>
-      <Color Name="Track deletions in documents under source control">
-        <Background Type="CT_RAW" Source="FFFF6666" />
-        <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
+		  <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
+	  </Color>
+	  <Color Name="Track modifications in documents under source control">
+		  <Background Type="CT_RAW" Source="FF3595DE" />
+		  <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
+	  </Color>
+	  <Color Name="Track deletions in documents under source control">
+		  <Background Type="CT_RAW" Source="FFFF6666" />
+		  <Foreground Type="CT_AUTOMATIC" Source="FF1E1E1E" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
         <Background Type="CT_RAW" Source="FF215D4A" />

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueStoneTheme", "BlueStoneTheme\BlueStoneTheme.csproj", "{7D249973-C6B1-4D48-B557-0043310C916F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlueStone", "BlueStone\BlueStone.csproj", "{7D249973-C6B1-4D48-B557-0043310C916F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
