@@ -1,5 +1,5 @@
-﻿<Themes>
-  <Theme Name="BlueStone" GUID="{7d249973-c6b1-4d48-b557-0043310c916f}">
+﻿<Themes>  
+  <Theme Name="BlueStone" GUID="{9915c471-6fe5-4c02-b8dd-d5cce20a6a5b}" BaseGUID="{575628dd-e4dc-452b-bf6a-6b50d63837d6}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1E1E1E" />
